@@ -16,7 +16,6 @@ def bubble_sort(is_print_iteration, array):
             print('Iteration ' + str(i + 1) + ': ' + str(array))
 
 
-
 def run_benchmark(input_size):
     setup_code = f"from __main__ import bubble_sort; import random; array = random.sample(range(1, {input_size + 1}), {input_size})"
     stmt = "bubble_sort(False, array.copy())"
@@ -35,7 +34,7 @@ def create_plot(results):
 
 
 def run_demo(arr):
-    print('Demo testing Selection Sort:')
+    print('Demo testing Bubble Sort:')
     bubble_sort(True, arr)
 
 
@@ -46,6 +45,8 @@ run_demo(test_array)
 # runs the benchmark portion
 input_sizes = [5, 10, 20, 50, 100, 200, 500, 1000, 5000, 10000]
 time_results = []
+
+print("\nBenchmark Testing:")
 
 for size in input_sizes:
     time = run_benchmark(size)
