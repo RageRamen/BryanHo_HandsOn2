@@ -18,4 +18,4 @@ RAM: 32gb DDR5 5200mhz.
 
 Storage: 1tb m.2 ssd, 2tb hdd
 
-First used: 11/25/2023 (In other words, recently new)
+First used: 11/25/2023 (In other words, recently new!)
