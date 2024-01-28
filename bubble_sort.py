@@ -4,7 +4,8 @@ import platform
 
 
 def bubble_sort(is_print_iteration, array):
-    print('Start: ' + str(array))
+    if is_print_iteration:
+        print('Start: ' + str(array))
 
     for i in range(len(array)):
         for j in range(len(array) - (i + 1)):
@@ -14,8 +15,6 @@ def bubble_sort(is_print_iteration, array):
         if is_print_iteration:
             print('Iteration ' + str(i + 1) + ': ' + str(array))
 
-    if not is_print_iteration:
-        print('Final: ' + str(array))
 
 
 def run_benchmark(input_size):

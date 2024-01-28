@@ -4,7 +4,8 @@ import platform
 
 
 def insertion_sort(is_print_iteration, array):
-    print('Start: ' + str(array))
+    if is_print_iteration:
+        print('Start: ' + str(array))
 
     for i in range(1, len(array)):
         key = array[i]
