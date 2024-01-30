@@ -16,6 +16,6 @@ GPU: 4060ti 16gb,
 
 RAM: 32gb DDR5 5200mhz.
 
-Storage: 1tb m.2 ssd, 2tb hdd
+Storage: 1tb m.2 ssd, 2tb hdd (Both are around 100gb to 200gb filled)
 
 First used: 11/25/2023 (In other words, recently new!)
