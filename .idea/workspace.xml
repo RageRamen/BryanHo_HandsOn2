@@ -4,12 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a71a6b46-6820-4c25-a2e2-2c4cf16486f8" name="Changes" comment="Fixed printing.">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bubble_sort.py" beforeDir="false" afterPath="$PROJECT_DIR$/bubble_sort.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/insertion_sort.py" beforeDir="false" afterPath="$PROJECT_DIR$/insertion_sort.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/selection_sort.py" beforeDir="false" afterPath="$PROJECT_DIR$/selection_sort.py" afterDir="false" />
-    </list>
+    <list default="true" id="a71a6b46-6820-4c25-a2e2-2c4cf16486f8" name="Changes" comment="Removed printing iterations(commented out the print). Added more to input size. Changed bubblesort to match the code from the book" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -24,6 +19,9 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 7
@@ -125,7 +123,23 @@
       <option name="project" value="LOCAL" />
       <updated>1706408974251</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Removed printing iterations(commented out the print). Added more to input size. Changed bubblesort to match the code from the book">
+      <option name="closed" value="true" />
+      <created>1706576883018</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1706576883018</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Removed printing iterations(commented out the print). Added more to input size. Changed bubblesort to match the code from the book">
+      <option name="closed" value="true" />
+      <created>1706576957692</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1706576957692</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -133,6 +147,7 @@
     <MESSAGE value="All sorts made." />
     <MESSAGE value="Benchmark code." />
     <MESSAGE value="Fixed printing." />
-    <option name="LAST_COMMIT_MESSAGE" value="Fixed printing." />
+    <MESSAGE value="Removed printing iterations(commented out the print). Added more to input size. Changed bubblesort to match the code from the book" />
+    <option name="LAST_COMMIT_MESSAGE" value="Removed printing iterations(commented out the print). Added more to input size. Changed bubblesort to match the code from the book" />
   </component>
 </project>
